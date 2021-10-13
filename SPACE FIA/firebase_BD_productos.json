@@ -1,0 +1,19 @@
+{
+  "Pisos" : {
+    "-M9G7k21iEZCdoAPwSAr" : {
+      "cantidad" : "20",
+      "codigo" : "COD01",
+      "descripcion" : "Piso1"
+    },
+    "-M9G7nfEBGjpBA8ToVtb" : {
+      "cantidad" : "25",
+      "codigo" : "COD02",
+      "descripcion" : "Piso2"
+    },
+    "-M9G8IRDFrtudKmkx8zp" : {
+      "cantidad" : "50",
+      "codigo" : "COD03",
+      "descripcion" : "Piso3"
+    }
+  }
+}
